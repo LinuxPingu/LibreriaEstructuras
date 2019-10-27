@@ -1,3 +1,4 @@
 ﻿  LibreriaEstructuras.cpp
-C:\Users\Daniel\source\repos\LibreriaEstructuras2\LibreriaEstructuras\LibreriaEstructuras\LibreriaEstructuras.cpp(63,7): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Daniel\source\repos\LibreriaEstructuras2\LibreriaEstructuras\LibreriaEstructuras\LibreriaEstructuras.cpp(89,7): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Daniel\source\repos\LibreriaEstructuras2\LibreriaEstructuras\LibreriaEstructuras\LibreriaEstructuras.cpp(111,7): warning C4553: '==': result of expression not used; did you intend '='?
   LibreriaEstructuras.vcxproj -> C:\Users\Daniel\Source\Repos\LibreriaEstructuras2\LibreriaEstructuras\x64\Debug\LibreriaEstructuras.exe
