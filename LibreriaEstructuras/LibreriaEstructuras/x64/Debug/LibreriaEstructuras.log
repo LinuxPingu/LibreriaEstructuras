@@ -1,0 +1,5 @@
+﻿  LibreriaEstructuras.cpp
+C:\Users\Daniel\source\repos\LibreriaEstructuras2\LibreriaEstructuras\LibreriaEstructuras\LibreriaEstructuras.cpp(49,11): warning C4101: 'inventario': unreferenced local variable
+C:\Users\Daniel\source\repos\LibreriaEstructuras2\LibreriaEstructuras\LibreriaEstructuras\LibreriaEstructuras.cpp(47,10): warning C4101: 'listaClientes': unreferenced local variable
+C:\Users\Daniel\source\repos\LibreriaEstructuras2\LibreriaEstructuras\LibreriaEstructuras\LibreriaEstructuras.cpp(48,10): warning C4101: 'listaAdministradores': unreferenced local variable
+  LibreriaEstructuras.vcxproj -> C:\Users\Daniel\Source\Repos\LibreriaEstructuras2\LibreriaEstructuras\x64\Debug\LibreriaEstructuras.exe
