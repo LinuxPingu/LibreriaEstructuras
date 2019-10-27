@@ -46,7 +46,6 @@ typedef struct nodoGlosario* glosario;
 int main()
 {
 	persona listaClientes;
-	persona listaAdministradores;
 	glosario inventario;
 }
 
