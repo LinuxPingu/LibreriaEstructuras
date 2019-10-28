@@ -1,5 +1,5 @@
 ﻿  LibreriaEstructuras.cpp
-C:\Users\Daniel\source\repos\LibreriaEstructuras2\LibreriaEstructuras\LibreriaEstructuras\LibreriaEstructuras.cpp(49,11): warning C4101: 'inventario': unreferenced local variable
-C:\Users\Daniel\source\repos\LibreriaEstructuras2\LibreriaEstructuras\LibreriaEstructuras\LibreriaEstructuras.cpp(47,10): warning C4101: 'listaClientes': unreferenced local variable
-C:\Users\Daniel\source\repos\LibreriaEstructuras2\LibreriaEstructuras\LibreriaEstructuras\LibreriaEstructuras.cpp(48,10): warning C4101: 'listaAdministradores': unreferenced local variable
+C:\Users\Daniel\source\repos\LibreriaEstructuras2\LibreriaEstructuras\LibreriaEstructuras\LibreriaEstructuras.cpp(90,7): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\Daniel\source\repos\LibreriaEstructuras2\LibreriaEstructuras\LibreriaEstructuras\LibreriaEstructuras.cpp(112,7): warning C4553: '==': result of expression not used; did you intend '='?
+  LINK : C:\Users\Daniel\Source\Repos\LibreriaEstructuras2\LibreriaEstructuras\x64\Debug\LibreriaEstructuras.exe not found or not built by the last incremental link; performing full link
   LibreriaEstructuras.vcxproj -> C:\Users\Daniel\Source\Repos\LibreriaEstructuras2\LibreriaEstructuras\x64\Debug\LibreriaEstructuras.exe
